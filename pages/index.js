@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, my name Zafer! I am a frontend engineer with a passion for
+          Hi, my name is Zafer! I am a frontend engineer with a passion for
           creating engaging and user-friendly web experiences. With two years of
           experience in the industry, I have developed a strong proficiency in
           HTML, CSS, and JavaScript, as well as framework like React.
